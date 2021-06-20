@@ -1,2 +1,2 @@
 # yelpcamp
-Final project in "The Web Developer Bootcamp" by Colt Steele
+nope. still in development. visit again next month.
